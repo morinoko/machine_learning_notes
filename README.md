@@ -11,3 +11,7 @@
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
 - [Pandas: Exercise for Analyzing Stock Prices](https://github.com/morinoko/machine_learning_notes/blob/master/Statistics%20from%20Stock%20Data%20with%20Pandas.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
+
+## Other References
+- [Tidy Data article](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+- [LaTex how-to](https://www.latex-tutorial.com/tutorials/amsmath/) - For writing mathematical functions, equations, and operations
