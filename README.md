@@ -1,7 +1,7 @@
 # Notes on Machine Learning
 
 ## Algorithms
-- [Linear Regression, Gradient of Descent, and Data Scaling Notes]()
+- [Linear Regression, Gradient of Descent, and Data Scaling Notes](https://github.com/morinoko/machine_learning_notes/blob/master/ML_1_Linear_Regression.pdf)
 
 ## Python Libraries
 - [NumPy Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Numpy%20Introduction.ipynb)
