@@ -4,8 +4,8 @@
 - [Linear Regression, Gradient of Descent, and Data Scaling Notes](https://github.com/morinoko/machine_learning_notes/blob/master/ML_1_Linear_Regression.pdf)
 
 ## Python Libraries
-- [NumPy Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Numpy%20Introduction.ipynb)
-- [Pandas Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Pandas%20Introduction.ipynb)
+- [NumPy Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Numpy%20Introduction.ipynb) - Mathematical calculations, including linear algebra and statistical operations
+- [Pandas Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Pandas%20Introduction.ipynb) - Data analysis with special data types linke DataFrames and Series
 
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
