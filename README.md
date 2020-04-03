@@ -10,6 +10,7 @@
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
 - [Pandas: Exercise for Analyzing Stock Prices](https://github.com/morinoko/machine_learning_notes/blob/master/Statistics%20from%20Stock%20Data%20with%20Pandas.ipynb)
+- [Matplotlib/Seaborn: Bar Chart Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Bar_Chart_Practice.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
 
 ## Other References
