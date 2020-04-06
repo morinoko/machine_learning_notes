@@ -7,6 +7,7 @@
 - [NumPy Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Numpy%20Introduction.ipynb) - Mathematical calculations, including linear algebra and statistical operations
 - [Pandas Notes and Usage](https://github.com/morinoko/machine_learning_notes/blob/master/Pandas%20Introduction.ipynb) - Data analysis with special data types linke DataFrames and Series
 - [Matplotlib and Seaborn - Univariate Charts](https://github.com/morinoko/machine_learning_notes/blob/master/Matplotlib%20and%20Seaborn%20-%20Univariate%20Charts.ipynb)
+- [Matplotlib and Seaborn - Multivariate Charts](https://github.com/morinoko/machine_learning_notes/blob/master/Matplotlib%20and%20Seaborn%20-%20Multivariate%20Charts.ipynb)
 
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
