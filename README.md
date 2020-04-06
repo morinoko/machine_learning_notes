@@ -21,3 +21,4 @@
 ## Other References
 - [Tidy Data article](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 - [LaTex how-to](https://www.latex-tutorial.com/tutorials/amsmath/) - For writing mathematical functions, equations, and operations
+- [Udacity AI Programming with Python GitHub repo](https://github.com/udacity/AIPND)
