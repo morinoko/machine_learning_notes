@@ -19,7 +19,11 @@
 - [Matplotlib/Seaborn: FacetGrid, Pointplot, Barplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Additional_Plot_Practice.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
 
+## LaTex
+- [LaTex Cheatsheet](https://www.authorea.com/users/77723/articles/110898-how-to-write-mathematical-equations-expressions-and-symbols-with-latex-a-cheatsheet)
+- [LaTex Cookbook](http://www.personal.ceu.hu/tex/cookbook.html#inline)
+- [LaTex how-to](https://www.latex-tutorial.com/tutorials/amsmath/) - For writing mathematical functions, equations, and operations
+
 ## Other References
 - [Tidy Data article](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
-- [LaTex how-to](https://www.latex-tutorial.com/tutorials/amsmath/) - For writing mathematical functions, equations, and operations
 - [Udacity AI Programming with Python GitHub repo](https://github.com/udacity/AIPND)
