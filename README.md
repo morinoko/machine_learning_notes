@@ -15,6 +15,7 @@
 - [Matplotlib/Seaborn: Scatterplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Scatterplot_Practice.ipynb)
 - [Matplotlib/Seaborn: Violin Plot/Boxplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Violin_and_Box_Plot_Practice.ipynb)
 - [Matplotlib/Seaborn: Clustered Bar Chart Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Categorical_Plot_Practice.ipynb)
+- [Matplotlib/Seaborn: FacetGrid, Pointplot, Barplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Additional_Plot_Practice.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
 
 ## Other References
