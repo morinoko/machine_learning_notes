@@ -21,6 +21,7 @@
 - [Lab: Plotting Vectors with NumPy and Matplotlib](https://github.com/morinoko/machine_learning_notes/blob/master/vectors_lab.ipynb)
 - [Lab: Solving Linear Combination Problems - Determining a Vector's Span](https://github.com/morinoko/machine_learning_notes/blob/master/linearCombination.ipynb)
 - [Lab: Convert Multiple Currencies with Matrix Multiplication](https://github.com/morinoko/machine_learning_notes/blob/master/matrixMultCurrency.ipynb)
+- [Lab: Visualizing Matrix Multipliction and Linear Transformation](https://github.com/morinoko/machine_learning_notes/blob/master/PlottingMatrixMultiplication.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
 
 ## LaTex
