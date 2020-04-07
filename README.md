@@ -1,6 +1,7 @@
 # Notes on Machine Learning
 
-## Algorithms
+## Algorithms / Linear Algebra
+- [Linear Algebra Notes](https://github.com/morinoko/machine_learning_notes/blob/master/Linear%20Algebra.ipynb)
 - [Linear Regression, Gradient of Descent, and Data Scaling Notes](https://github.com/morinoko/machine_learning_notes/blob/master/ML_1_Linear_Regression.pdf) (PDF, hand-written)
 
 ## Python Libraries
@@ -17,6 +18,7 @@
 - [Matplotlib/Seaborn: Violin Plot/Boxplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Violin_and_Box_Plot_Practice.ipynb)
 - [Matplotlib/Seaborn: Clustered Bar Chart Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Categorical_Plot_Practice.ipynb)
 - [Matplotlib/Seaborn: FacetGrid, Pointplot, Barplot Practice](https://github.com/morinoko/machine_learning_notes/blob/master/Additional_Plot_Practice.ipynb)
+- [Plotting Vectors with NumPy and Matplotlib](https://github.com/morinoko/machine_learning_notes/blob/master/vectors_lab.ipynb)
 - [Example of using and evaluating pre-trained image classifiers](https://github.com/morinoko/python-pretrained-image-classifier-example) (Separate repository)
 
 ## LaTex
