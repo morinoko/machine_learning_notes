@@ -28,6 +28,7 @@
 - [LaTex Cheatsheet](https://www.authorea.com/users/77723/articles/110898-how-to-write-mathematical-equations-expressions-and-symbols-with-latex-a-cheatsheet)
 - [LaTex Cookbook](http://www.personal.ceu.hu/tex/cookbook.html#inline)
 - [LaTex how-to](https://www.latex-tutorial.com/tutorials/amsmath/) - For writing mathematical functions, equations, and operations
+- [Latex Matrices](https://www.overleaf.com/learn/latex/Matrices)
 
 ## Other References
 - [Tidy Data article](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
