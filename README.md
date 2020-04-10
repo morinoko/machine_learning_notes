@@ -3,6 +3,7 @@
 ## Algorithms / Linear Algebra
 - [Linear Algebra Notes](https://github.com/morinoko/machine_learning_notes/blob/master/Linear%20Algebra.ipynb)
 - [Linear Regression, Gradient of Descent, and Data Scaling Notes](https://github.com/morinoko/machine_learning_notes/blob/master/ML_1_Linear_Regression.pdf) (PDF, hand-written)
+- [Neural Networks notes](https://github.com/morinoko/machine_learning_notes/blob/master/Neural%20Networks.ipynb)
 - [Gradient descent and backpropogation with NumPy](https://github.com/morinoko/machine_learning_notes/blob/master/Gradient%20Descent%20and%20Backpropogation%20in%20NumPy.ipynb)
 - [Applying Gradient Descent Exercise](https://github.com/morinoko/machine_learning_notes/blob/master/GradientDescent.ipynb)
 - [Training a Model in Python](https://github.com/morinoko/machine_learning_notes/blob/master/TrainingAModel_StudentAdmissions.ipynb)
