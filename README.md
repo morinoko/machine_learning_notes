@@ -17,6 +17,7 @@
 ### PyTorch
 - [PyTorch Part 1: Tensors](https://github.com/morinoko/machine_learning_notes/blob/master/Tensors%20in%20PyTorch%20(Part%201%20Exercises).ipynb)
 - [PyTorch Part 2: Neural Networks](https://github.com/morinoko/machine_learning_notes/blob/master/Neural%20Networks%20in%20PyTorch%20(Part%202%20Exercises).ipynb)
+- [PyTorch Part 3: Training Neural Networks](https://github.com/morinoko/machine_learning_notes/blob/master/Training%20Neural%20Networks%20in%20PyTorch%20(Part%203%20Exercises).ipynb)
 
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
