@@ -14,6 +14,9 @@
 - [Matplotlib and Seaborn - Univariate Charts](https://github.com/morinoko/machine_learning_notes/blob/master/Matplotlib%20and%20Seaborn%20-%20Univariate%20Charts.ipynb)
 - [Matplotlib and Seaborn - Multivariate Charts](https://github.com/morinoko/machine_learning_notes/blob/master/Matplotlib%20and%20Seaborn%20-%20Multivariate%20Charts.ipynb)
 
+### PyTorch
+- [PyTorch Part 1: Tensors](https://github.com/morinoko/machine_learning_notes/blob/master/Tensors%20in%20PyTorch%20(Part%201%20Exercises).ipynb)
+
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
 - [Pandas: Exercise for Analyzing Stock Prices](https://github.com/morinoko/machine_learning_notes/blob/master/Statistics%20from%20Stock%20Data%20with%20Pandas.ipynb)
