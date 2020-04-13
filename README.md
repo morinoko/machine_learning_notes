@@ -19,6 +19,7 @@
 - [PyTorch Part 2: Neural Networks](https://github.com/morinoko/machine_learning_notes/blob/master/Neural%20Networks%20in%20PyTorch%20(Part%202%20Exercises).ipynb)
 - [PyTorch Part 3: Training Neural Networks](https://github.com/morinoko/machine_learning_notes/blob/master/Training%20Neural%20Networks%20in%20PyTorch%20(Part%203%20Exercises).ipynb)
 - [PyTorch Part 4: Training Neural Networks (Fashion-MNIST version)](https://github.com/morinoko/machine_learning_notes/blob/master/Training%20Neural%20Networks%20in%20PyTorch%20(Part%204%20Exercises%20-Fashion-MNIST).ipynb)
+- [PyTorch Part 5: Inference, Validation, Dropout](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Inference%2C%20Validation%2C%20and%20Dropout%20(Part%205%20Exercises).ipynb)
 
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
