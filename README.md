@@ -21,6 +21,7 @@
 - [PyTorch Part 4: Training Neural Networks (Fashion-MNIST version)](https://github.com/morinoko/machine_learning_notes/blob/master/Training%20Neural%20Networks%20in%20PyTorch%20(Part%204%20Exercises%20-Fashion-MNIST).ipynb)
 - [PyTorch Part 5: Inference, Validation, Dropout](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Inference%2C%20Validation%2C%20and%20Dropout%20(Part%205%20Exercises).ipynb)
 - [PyTorch Part 6: Saving and Loading Models](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Saving%20and%20Loading%20Models%20(Part%206).ipynb)
+- [PyTorch Part 7: Loading Image Data and Transforms](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Loading%20Image%20Data%20and%20Transforms%20(Part%207%20Exercises).ipynb)
 - [Example of Training with Dropout (self-coded)](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Model%20Training.ipynb)
 
 ## Practice and Exercises
