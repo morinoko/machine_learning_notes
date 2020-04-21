@@ -25,6 +25,11 @@
 - [PyTorch Part 8: Transfer Learning](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Transfer%20Learning%20(Part%208%20Exercises).ipynb)
 - [Example of Training with Dropout (self-coded)](https://github.com/morinoko/machine_learning_notes/blob/master/PyTorch%20Model%20Training.ipynb)
 
+## Computer Vision
+
+### OpenCV
+- [Simple color detection](https://github.com/morinoko/machine_learning_notes/blob/master/Computer%20Vision%20Hotel.ipynb)
+
 ## Practice and Exercises
 - [NumPy: Exercise for Mean Normalization and Data Separation with Python](https://github.com/morinoko/machine_learning_notes/blob/master/Mean%20Normalization%20and%20Data%20Separation%20with%20NumPy.ipynb)
 - [Pandas: Exercise for Analyzing Stock Prices](https://github.com/morinoko/machine_learning_notes/blob/master/Statistics%20from%20Stock%20Data%20with%20Pandas.ipynb)
